@@ -1,4 +1,4 @@
-{
+  {
   "@context": [
     "https://www.w3.org/ns/did/v1",
     "https://w3id.org/security/suites/jws-2020/v1"
@@ -12,8 +12,8 @@
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "secp256k1",
-        "x": "FDWKnXEgel1UDbQfdnc7AZBk1Ygqu/nIExtHbkJ5Zfo=",
-        "y": "h/TXR4hnX5Ofa0JBtSIW2YTtHYMzaKxmAshz75R5Oyk="
+        "x": "dbMgLG0UlrsgeFjB+HY7kxqhC3p6wiS7xUoyaXFZHws=",
+        "y": "OWsu4cFqmdX4L4C9NW0hgjCb3qR9HjgyfrsJU6GzpY4="
       }
     }
   ],
